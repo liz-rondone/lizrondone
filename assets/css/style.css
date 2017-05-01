@@ -1,0 +1,109 @@
+a.nav {
+    color: #666666;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+a.nav:hover {
+    color: #4aaaa5;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+a.port {
+    color: #ffffff;
+    font-family: font-family: 'Georgia', Times, Times New Roman, serif;;
+    text-decoration: none;
+}
+
+a.port:hover {
+    color: #ffffff;
+    font-family: font-family: 'Georgia', Times, Times New Roman, serif;;
+    text-decoration: none;
+}
+
+
+.bord-1{border: 1px solid #cccccc;}
+.bord-b-1{border-bottom: 1px solid #cccccc;}
+.bord-b-2{border-bottom: 2px solid #cccccc;}
+.bord-t-8{border-top: 8px solid #4aaaa5;}
+
+.bcolor-gray{background-color: #666666;}
+.bcolor-teal{background-color: #4aaaa5;}
+.bcolor-white{background-color: #ffffff;}
+.bcolor-pink{background-color: pink;}
+
+.bimage{background-repeat: url(../images/background.png);}
+
+.btm-0{bottom: 0px;}
+.btm-13{bottom: 13px;}
+
+.clear{clear: both;}
+
+.fcolor-gray{color: #777777;}
+.fcolor-lgray{color:#a5a5a5;}
+.fcolor-lrgray{color: #eaeaea;}
+.fcolor-teal{color: #4aaaa5;}
+.fcolor-white{color: #ffffff;}
+
+.float-l{float: left;}
+.float-r{float: right;}
+
+.fontfam-serif{font-family: 'Georgia', Times, Times New Roman, serif;}
+.fontfam-sanserif{font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;}
+
+.fontw-bold{font-weight: bold;}
+
+.fs-10{font-size: 10px;}
+.fs-12{font-size: 12px;}
+.fs-18{font-size: 18px;}
+.fs-20{font-size: 20px;}
+.fs-25{font-size: 25px;}
+.fs-30{font-size: 30px;}
+
+.h-70{height: 70px;}
+.h-80{height: 80px;}
+.h-150{height: 150px;}
+
+.lft-0{left: 0px;}
+
+.lineh-26{line-height: 26px;}
+
+.marg-cntr{margin:0 auto;}
+.marg-35{margin: 35px;}
+.marg-b-23{margin-bottom: 23px;}
+.marg-b-30{margin-bottom: 30px;}
+.marg-b-40{margin-bottom: 40px;}
+.marg-b-50{margin-bottom: 50px;}
+.marg-b-150{margin-bottom: 150px;}
+.marg-l-15{margin-left: 15px;}
+.marg-r-15{margin-right: 15px;}
+.marg-r-30{margin-right: 30px;}
+.marg-t-30{margin-top: 30px;}
+.marg-t-40{margin-top: 40px;}
+.marg-t-50{margin-top: 50px;}
+
+.overflow{overflow: auto;}
+
+.pad-30{padding: 30px;}
+.pad-40{padding: 40px;}
+.pad-b-20{padding-bottom: 20px;}
+.pad-b-23{padding-bottom: 23px;}
+.pad-b-30{padding-bottom: 30px;}
+.pad-t-20{padding-top: 20px;}
+.pad-t-30{padding-top: 30px;}
+
+.pos-abso{position: absolute;}
+.pos-fix{position: fixed;}
+.pos-rltv{position: relative;}
+
+.txtalgn-cntr{text-align: center;}
+.txtvert-cntr{vertical-align: center;}
+
+.w-60{width: 60px;}
+.w-200{width: 200px;}
+.w-270{width: 270px;}
+.w-305{width: 305px;}
+.w-650{width: 650px;}
+.w-960{width: 960px;}
+.w-100pct{width: 100%;}
