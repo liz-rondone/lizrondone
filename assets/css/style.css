@@ -22,7 +22,12 @@ a.port:hover {
     text-decoration: none;
 }
 
+input.placeholder {
+	color: pink; 
+}
 
+
+.bord-0{border: none;}
 .bord-1{border: 1px solid #cccccc;}
 .bord-b-1{border-bottom: 1px solid #cccccc;}
 .bord-b-2{border-bottom: 2px solid #cccccc;}
@@ -56,6 +61,7 @@ a.port:hover {
 
 .fs-10{font-size: 10px;}
 .fs-12{font-size: 12px;}
+.fs-15{font-size: 15px;}
 .fs-18{font-size: 18px;}
 .fs-20{font-size: 20px;}
 .fs-25{font-size: 25px;}
@@ -64,6 +70,7 @@ a.port:hover {
 .h-70{height: 70px;}
 .h-80{height: 80px;}
 .h-150{height: 150px;}
+.h-200{height: 200px;}
 
 .lft-0{left: 0px;}
 
@@ -71,6 +78,7 @@ a.port:hover {
 
 .marg-cntr{margin:0 auto;}
 .marg-35{margin: 35px;}
+.marg-b-6{margin-bottom: 6px;}
 .marg-b-23{margin-bottom: 23px;}
 .marg-b-30{margin-bottom: 30px;}
 .marg-b-40{margin-bottom: 40px;}
@@ -79,12 +87,15 @@ a.port:hover {
 .marg-l-15{margin-left: 15px;}
 .marg-r-15{margin-right: 15px;}
 .marg-r-30{margin-right: 30px;}
+.marg-t-6{margin-top: 6px;}
 .marg-t-30{margin-top: 30px;}
 .marg-t-40{margin-top: 40px;}
 .marg-t-50{margin-top: 50px;}
 
 .overflow{overflow: auto;}
 
+.pad-button{padding: 10px 30px;}
+.pad-6{padding: 6px;}
 .pad-30{padding: 30px;}
 .pad-40{padding: 40px;}
 .pad-b-20{padding-bottom: 20px;}
@@ -104,6 +115,7 @@ a.port:hover {
 .w-200{width: 200px;}
 .w-270{width: 270px;}
 .w-305{width: 305px;}
+.w-590{width: 590px;}
 .w-650{width: 650px;}
 .w-960{width: 960px;}
 .w-100pct{width: 100%;}
