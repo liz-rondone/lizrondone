@@ -1,0 +1,18 @@
+<!--goes in HTML
+<link rel="stylesheet" type="text/css" href="main.css">-->
+
+.bkg-blue {
+	background:blue;
+}
+
+.type-red {
+	color:red;
+}
+
+.header {
+	color:white;
+	background-color:black;
+	padding:10px;
+	text-align:center;
+	width: 100%
+}
