@@ -24,10 +24,6 @@ a.port:hover {
     text-decoration: none;
 }
 
-input.placeholder {
-	color: pink; 
-}
-
 ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
   color: #a5a5a5;
 }
@@ -52,7 +48,7 @@ input.placeholder {
 .bcolor-white{background-color: #ffffff;}
 .bcolor-pink{background-color: pink;}
 
-.bimage{background-repeat: url('../images/background.png');}
+.bimage{background-image: url("../images/background.jpg");}
 
 .btm-0{bottom: 0px;}
 .btm-13{bottom: 13px;}
@@ -132,6 +128,7 @@ input.placeholder {
 .w-200{width: 200px;}
 .w-270{width: 270px;}
 .w-275{width: 275px;}
+.w-300{width: 300px;}
 .w-305{width: 305px;}
 .w-590{width: 590px;}
 .w-650{width: 650px;}
